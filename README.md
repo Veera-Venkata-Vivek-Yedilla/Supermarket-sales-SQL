@@ -1,4 +1,4 @@
-# Supermarket-sales-SQL
+# Supermarket_sales_SQL
 
 ## Overview
 This project analyzes supermarket sales data using SQL. The dataset includes detailed sales records with columns for InvoiceID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, Tax, Total, Date, Time, Payment, COGS, Gross Margin, Gross Income, and Rating.
